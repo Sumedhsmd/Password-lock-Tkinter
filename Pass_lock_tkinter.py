@@ -1,3 +1,4 @@
+# Prefer Another Repo for Program without Tkinter 
 from tkinter import *
 
 window = Tk()
